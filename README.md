@@ -12,11 +12,6 @@ Elegant UI Design: Includes custom-styled components such as:
 Gradient-themed AppBar with movie poster backgrounds
 State Management: Powered by Provider for efficient state management and smooth performance.
 
-🖼️ Screenshots
-![Main Screen](https://github.com/user-attachments/assets/a319a7dc-ac64-4d97-95fc-95c947dd8450)
-![Movie Search Screen](https://github.com/user-attachments/assets/b3aa9edf-25bf-4524-9e29-36dbdc010242)
-![Detail Screen](https://github.com/user-attachments/assets/4b78702f-a6e1-4bc8-a3d9-9bf079b87583)
-
 🛠️ Technologies Used!
 Flutter: Framework for building cross-platform mobile applications.
 Provider: State management solution for Flutter.
