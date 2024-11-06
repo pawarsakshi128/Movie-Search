@@ -1,4 +1,6 @@
 🎬 Movie Search App
+
+
 A beautifully designed Flutter app that allows users to search for movies, view detailed information about each movie, and explore cast, director, genres, ratings, and more. Powered by the OMDb API, this app provides a smooth and visually engaging experience with custom UI elements, animations, and gradient themes.
 
 ✨ Features
